@@ -1,3 +1,2 @@
-a = (input()+' ')
-a1 = str(a * 100)
-print(a1)
+a = str(input())
+print((a + ' ') * 10, end='.' '\n')

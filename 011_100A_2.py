@@ -1,1 +1,1 @@
-print(str('A '*100))
+print (str('A ' * 100))
